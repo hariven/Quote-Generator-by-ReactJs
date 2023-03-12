@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.bgc{
+  background-color: #7171f4;
+opacity: 1;
+background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #29293e 10px ), repeating-linear-gradient( #0005, #000 );
+}
